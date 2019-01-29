@@ -1,5 +1,6 @@
 # php Admin Dashbord
 # Credentials
+  
   sql database:test
   username:root
   password:(leave it blank)
