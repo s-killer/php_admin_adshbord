@@ -1,4 +1,4 @@
-# php_admin_dashbord
+# php Admin Dashbord
 # Credentials
   sql database:test
   username:root
